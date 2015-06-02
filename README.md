@@ -1,6 +1,6 @@
 # our-rad-quiz
 
-## hi hello this is a meeting about a quiz
+## hi hello this is a meeting about quizzes
 
 ???
 
